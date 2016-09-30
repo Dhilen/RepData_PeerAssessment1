@@ -42,7 +42,7 @@ hist(x=dailysum,
      ylab="Frequency",
      main="The distribution of daily total (missing data ignored)")
 ```
-![plot of Image 1](.\RepData_PeerAssessment1\instructions_fig\sample_panelplot.png)
+![plot of Image 1](./RepData_PeerAssessment1/instructions_fig/sample_panelplot.png)
 
 ```r
 mean(dailysum)
